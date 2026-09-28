@@ -5,7 +5,7 @@ Scrape Instahyre's public India tech job-search feed: title, company tagline, fo
 **Run it on Apify:** [apify.com/themineworks/instahyre-jobs-scraper](https://apify.com/themineworks/instahyre-jobs-scraper)
 **Docs, FAQ and pricing:** [themineworks.com/actors/instahyre-jobs-scraper](https://themineworks.com/actors/instahyre-jobs-scraper/)
 
-**Price:** $2.00 per 1,000 jobs on Apify's free plan, down to $1.20 on higher plans, plus a $0.005 start fee per run. Failed and empty results are never charged.
+**Price:** From $1.20 per 1,000 jobs on Apify's higher plans ($2.00 on the free plan), plus a $0.005 start fee per run. Failed and empty results are never charged.
 
 ## What it returns
 
